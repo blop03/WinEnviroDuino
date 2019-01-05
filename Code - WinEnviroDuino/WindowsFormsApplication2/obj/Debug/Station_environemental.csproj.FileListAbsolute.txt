@@ -1,0 +1,94 @@
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Station_environemental.csprojResolveAssemblyReference.cache
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Station_environemental.Properties.Resources.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.GenerateResource.Cache
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\zu\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.zu.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\zu\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.it-IT.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Serveur environnemental\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\zu\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csprojResolveAssemblyReference.cache
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.Properties.Resources.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.it-IT.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.zu.resources
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.GenerateResource.Cache
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Ancien serveur environnemental\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\zu\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.pdb
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\zu\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csprojResolveAssemblyReference.cache
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.Properties.Resources.resources
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr.resources
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.it-IT.resources
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.zu.resources
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.GenerateResource.Cache
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\fr\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\it-IT\Station_environemental.resources.dll
+C:\Users\lena\Desktop\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\zu\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csprojResolveAssemblyReference.cache
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.Properties.Resources.resources
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr.resources
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.it-IT.resources
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.zu.resources
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.GenerateResource.Cache
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.pdb
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\fr\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\it-IT\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\bin\Debug\zu\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\fr\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\it-IT\Station_environemental.resources.dll
+D:\WinEnviroDuino\projet perso\Code - WinEnviroDuino\WinEnviroDuino\WindowsFormsApplication2\obj\Debug\zu\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe.config
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.exe
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\Station_environemental.pdb
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\fr\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\it-IT\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\bin\Debug\zu\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csprojAssemblyReference.cache
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.Properties.Resources.resources
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.fr.resources
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.it-IT.resources
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.zu.resources
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.GenerateResource.cache
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.csproj.CoreCompileInputs.cache
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\fr\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\it-IT\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\zu\Station_environemental.resources.dll
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.exe
+I:\0-WinEnviroDuino\Code - WinEnviroDuino\WindowsFormsApplication2\obj\Debug\Station_environemental.pdb
