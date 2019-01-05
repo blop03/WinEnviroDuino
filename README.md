@@ -1,8 +1,12 @@
 # WinEnviroDuino
 
-![alt tag](http://cv.simonlena.com/wp-content/uploads/2014/11/WinEnviroDuino_Dashboard-755x462.png)
+Voici un logiciel afin de gérer la température d'une salle.
 
-Logiciel requis :
+Installation :
+
+![Plan](https://github.com/blop03/WinEnviroDuino/blob/master/Plan-WinEnviroDuino.png)
+
+Matériel requis :
 
 - Un ordinateur avec le logiciel arduino
 - Visual Studio Express
@@ -10,6 +14,13 @@ Logiciel requis :
 - Une breadboard (plaque de prototypage)
 - Un capteur de température (thermistor) LM35DZ
 - Des fils électriques
+
+Les capture d'écran 
+
+
+![alt tag](http://cv.simonlena.com/wp-content/uploads/2014/11/WinEnviroDuino_Dashboard-755x462.png)
+
+
 
 Amélioration en cours 
 
