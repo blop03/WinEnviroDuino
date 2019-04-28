@@ -1,5 +1,8 @@
 # WinEnviroDuino
 
+![Code](https://badgen.net/badge/Code/C#/:blue)
+![Outils](https://badgen.net/badge/Outils/Visual studio/:blue)
+
 Voici un logiciel afin de gérer la température d'une salle.
 
 ## Plan de fonctionnement
